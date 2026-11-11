@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-687440-m84073_260501_060749_s2.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "fLepSal3"
+scientific_name: "Lepidogalaxias salamandroides"
+busco_lineages: "actinopterygii_odb10"
+taxid: 89578

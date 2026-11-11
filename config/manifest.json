@@ -1,0 +1,29 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "fLepSal3",
+  "scientific_name": "Lepidogalaxias salamandroides",
+  "taxon_id": 89578,
+  "busco_odb10_dataset_name": "actinopterygii",
+  "busco_odb12_dataset_name": "actinopterygii",
+  "ncbi_class": "Actinopteri",
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 2,
+  "mitohifi_reference_species": "Salvelinus fontinalis",
+  "oatk_hmm_name": "actinopterygii",
+  "augustus_dataset_name": "tiberius_model_cfg:vertebrates.yaml",
+  "genetic_code_id": 1,
+  "assembly_id": "a449e4bb-245d-47f5-b3b9-8b8997740a13",
+  "read_files": [
+    {
+      "name": "bpa-tsi-pacbio-hifi-687440-m84073_260501_060749_s2",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/tsi_staging/pacbio-hifi/BPAOPS-2094/20260527_TSI_AGRF_CAGRF26020091_m84073_260501_060749_s2/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-tsi-pacbio-hifi-687440-m84073_260501_060749_s2/resource/2053ba7f553267554ba4607acb97cebe/download/687440_TSI_AGRF_m84073_260501_060749_s2.ccs.bam",
+          "md5sum": "2053ba7f553267554ba4607acb97cebe"
+        }
+      ]
+    }
+  ]
+}

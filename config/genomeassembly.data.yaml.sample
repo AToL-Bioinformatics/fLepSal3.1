@@ -1,0 +1,5 @@
+
+- id: fLepSal3
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-687440-m84073_260501_060749_s2.fastq.gz
